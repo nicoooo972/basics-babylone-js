@@ -1,0 +1,16 @@
+{
+  "name": "babylone-vr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "@babylonjs/core": "^7.14.0",
+    "@babylonjs/inspector": "^7.14.0",
+    "http-server": "^14.1.1",
+    "vite": "^5.3.3"
+  }
+}
